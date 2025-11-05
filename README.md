@@ -16,5 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 📈 GitHub
-https://github-readme-stats.vercel.app/api?username=Nova-Moxiaobai&show_icons=true&theme=radical
+
+![](https://github-readme-stats.vercel.app/api?username=Nova-Moxiaobai&show_icons=true&theme=radical) 
+
 
